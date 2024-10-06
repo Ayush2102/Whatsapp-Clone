@@ -24,6 +24,7 @@ A feature-rich WhatsApp clone built with **TypeScript**, **Node.js**, **Express*
 
 ### Installation
 
+
 1. Clone the repository:
 
    ```bash
@@ -49,20 +50,21 @@ A feature-rich WhatsApp clone built with **TypeScript**, **Node.js**, **Express*
    npm start
 
 
-Usage
+### Usage
+
 Visit http://localhost:3000 in your browser.
 Sign up or log in to start chatting!
 
 
-Screenshots-
+### Screenshots-
 
 ![image](https://github.com/user-attachments/assets/16827057-4687-4a9d-9cfd-558b413070de)
 
 ![image](https://github.com/user-attachments/assets/44136eb7-3cee-4bf0-b825-6c88734f9b54)
 
 
-Acknowledgements-
 
+### Acknowledgements-
 
 MongoDB Documentation
 
@@ -71,7 +73,10 @@ Express Documentation
 React Documentation
 
 
-Contact-
+### Contact-
+
 For any questions or feedback, feel free to reach out:
+
 Ayush Jain - jainayush2102@gmail.com
+
 GitHub: Ayush2102
