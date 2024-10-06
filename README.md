@@ -48,9 +48,11 @@ A feature-rich WhatsApp clone built with **TypeScript**, **Node.js**, **Express*
 
    npm start
 
+
 Usage
 Visit http://localhost:3000 in your browser.
 Sign up or log in to start chatting!
+
 
 Screenshots-
 
@@ -61,9 +63,13 @@ Screenshots-
 
 Acknowledgements-
 
+
 MongoDB Documentation
+
 Express Documentation
+
 React Documentation
+
 
 Contact-
 For any questions or feedback, feel free to reach out:
